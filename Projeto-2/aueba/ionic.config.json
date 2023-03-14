@@ -1,0 +1,7 @@
+{
+  "name": "aueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
